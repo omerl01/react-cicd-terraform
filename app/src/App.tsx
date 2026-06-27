@@ -2,9 +2,9 @@ import { useState, useEffect } from 'react'
 import './App.css'
 
 const KONAMI = [
-  'ArrowUp','ArrowUp','ArrowDown','ArrowDown',
-  'ArrowLeft','ArrowRight','ArrowLeft','ArrowRight',
-  'b','a',
+  'ArrowUp', 'ArrowUp', 'ArrowDown', 'ArrowDown',
+  'ArrowLeft', 'ArrowRight', 'ArrowLeft', 'ArrowRight',
+  'b', 'a',
 ]
 
 function useKonami(onSuccess: () => void) {
@@ -27,7 +27,7 @@ const features = [
   {
     icon: '☁️',
     colorClass: 'icon-blue',
-    title: 'Hands-on Labs',
+    title: 'knicks in five',
     desc: 'Practice in real AWS, Azure and GCP environments — no local setup required.',
   },
   {
