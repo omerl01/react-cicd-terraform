@@ -117,8 +117,3 @@ To connect your GitHub repository with AWS, add the following secrets in **Setti
    ```
 3. Monitor your pipeline execution under the **Actions** tab of your GitHub repository.
 4. Once completed, your changes will instantly be visible at your CloudFront URL.
-
----
-
-* **Architecture Diagram Screenshot**:
-  ![Architecture Diagram](picutresforlab/initial_upload.png) *(Ensure your screenshot is placed correctly in your repo)*
